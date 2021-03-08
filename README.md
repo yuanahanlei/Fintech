@@ -1,4 +1,4 @@
 # Fintech
 
-+opp
-+ooo
++ opp
++ ooo
