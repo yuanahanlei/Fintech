@@ -15,7 +15,7 @@
 * ### 作業二 : Build a Website using Amazon EC2 with LAMP
 > 說明: 在完成第 2 堂雲端服務課程後，藉由 Linux 2 虛擬機完成安裝 LAMP 解決方案包，並成功啟動網頁伺服器與資料庫伺服器的功能。  
 截止日期: 3/29  
-[HW2]()
+[HW2](https://youtu.be/JrrvrGHUu4c)
 
 * ### 作業三 : Build a Website using Amazon S3(Versioning) and AWS Amplify
 > 說明: 在完成第 3 堂雲端服務課程後，運用 S3 與Amplify 服務進行網頁部署，過程中演示版本控制功能。  
