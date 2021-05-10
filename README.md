@@ -62,6 +62,9 @@
 * 定義的模型不一定適合所有資料，需再進一步篩選所需的資料
 > 從交易行為分類，可藉由平均交易量以及交易次數組合出特徵，再進行分群，篩選出適合套模型的
 
+### 專題匯報
+[專案報告](https://docs.google.com/presentation/d/1TP-TGh9Zs-lSZh_5rX7t2WVwADLVUr4E/edit#slide=id.p1) 
+
 
 
 
