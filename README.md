@@ -67,7 +67,12 @@
 
 
 ### 專題匯報
-[專案報告](https://docs.google.com/presentation/d/1TP-TGh9Zs-lSZh_5rX7t2WVwADLVUr4E/edit#slide=id.p1) 
+[專案報告](https://docs.google.com/presentation/d/1TP-TGh9Zs-lSZh_5rX7t2WVwADLVUr4E/edit#slide=id.p1)
+
+### 最終專題成果
+* [3分鐘宣傳影片](https://www.youtube.com/watch?v=AM0ttOEBENw)
+* [15分鐘成果發表](https://www.youtube.com/watch?v=ejTDAt_T9tM)
+* [PPT檔](https://docs.google.com/presentation/d/1QRgPRwFWCx0eQgkV_LtcVbMxnW-85lXYNJqqy9iUIM4/edit?usp=sharing)
 
 
 
