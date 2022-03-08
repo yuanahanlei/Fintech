@@ -1,0 +1,16 @@
+new_category.csv
+是標註了真實股票代號的股票分類檔案
+
+new_txn.csv
+增加了beta_21, beta_21_diff兩個欄位，並僅剩下買入的紀錄
+---beta_21:該股票當天的beta21值
+---beta_21_diff：該股票當天beta_21值和該股之類股的beta_21平均值的差值
+
+cust_info.csv 
+過濾了BUY_COUNT<10&SELL_COUNT<10的顧客後，增加了過往所有交易的beta_21_diff平均值
+
+stock_info.csv
+新增了真實日期
+
+category_beta.csv
+計算所有類股每日的beta_21平均值
