@@ -3,7 +3,7 @@
 ## Introduction
 * Name： Yuan-han Lei 雷沅翰 
 * University： Soochow University 
-* Department： Bid Data Management
+* Department： Big Data Management
 * Student ID: 08170125
 
 ## Homework
